@@ -1,6 +1,6 @@
-let titles_type = ["Dataset", "Data", "Distillation", "Pruning"];
+let titles_type = ["Dataset", "Data", "Distillation", "Pruning", "Condensation"];
 let titles_model = ["BERT", "GPT", "Transformer"];
-let titles_method = ["Distillation", "Pruning"];
+let titles_method = ["Distillation", "Pruning", "Condensation"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yang You", "Linfeng Zhang", "Yoshua Bengio","Kaiming He"];
 
