@@ -1,8 +1,8 @@
-let titles_type = ["Dataset", "Data", "Distillation", "Pruning", "Condensation"];
+let titles_type = ["Dataset", "Data", "Distillation", "Pruning", "Condensation", "Data mining", "Mining", "context learning"];
 let titles_model = ["BERT", "GPT", "Transformer"];
-let titles_method = ["Distillation", "Pruning", "Condensation", "Coreset"];
+let titles_method = ["Distillation", "Pruning", "Condensation", "Coreset", "Mining"];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Yang You", "Linfeng Zhang", "Yoshua Bengio","Kaiming He"];
+let authors_array = ["Yang You", "Linfeng Zhang", "Yoshua Bengio", "Kaiming He", "Jiawei Han", "Yu Zhang"];
 
 let conferences = [
     // AI
